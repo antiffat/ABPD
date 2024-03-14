@@ -16,13 +16,13 @@
             throw new ArgumentException("Array must be not null or empty", nameof(numbers));
         }
 
-        double sum = 0;
+        double total = 0;
         foreach (int number in numbers)
         {
-            sum += number;
+            total += number;
         }
 
-        return sum / numbers.Length;
+        return total / numbers.Length;
     }
 
     public static int FindMax(int[] numbers)
