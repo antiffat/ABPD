@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/antiffat/RiderProjects/ABPD_LAB_02/ABPD_LAB_02/ABPD_LAB_02.csproj": {}
+    "/Users/antiffat/ABPD/ABPD_LAB_02/ABPD_LAB_02/ABPD_LAB_02.csproj": {}
   },
   "projects": {
-    "/Users/antiffat/RiderProjects/ABPD_LAB_02/ABPD_LAB_02/ABPD_LAB_02.csproj": {
+    "/Users/antiffat/ABPD/ABPD_LAB_02/ABPD_LAB_02/ABPD_LAB_02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/antiffat/RiderProjects/ABPD_LAB_02/ABPD_LAB_02/ABPD_LAB_02.csproj",
+        "projectUniqueName": "/Users/antiffat/ABPD/ABPD_LAB_02/ABPD_LAB_02/ABPD_LAB_02.csproj",
         "projectName": "ABPD_LAB_02",
-        "projectPath": "/Users/antiffat/RiderProjects/ABPD_LAB_02/ABPD_LAB_02/ABPD_LAB_02.csproj",
+        "projectPath": "/Users/antiffat/ABPD/ABPD_LAB_02/ABPD_LAB_02/ABPD_LAB_02.csproj",
         "packagesPath": "/Users/antiffat/.nuget/packages/",
-        "outputPath": "/Users/antiffat/RiderProjects/ABPD_LAB_02/ABPD_LAB_02/obj/",
+        "outputPath": "/Users/antiffat/ABPD/ABPD_LAB_02/ABPD_LAB_02/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/antiffat/.nuget/NuGet/NuGet.Config"
