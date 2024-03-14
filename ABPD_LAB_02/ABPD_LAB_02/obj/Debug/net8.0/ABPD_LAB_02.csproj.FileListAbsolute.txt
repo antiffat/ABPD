@@ -1,0 +1,15 @@
+/Users/antiffat/ABPD/ABPD_LAB_02/ABPD_LAB_02/bin/Debug/net8.0/ABPD_LAB_02
+/Users/antiffat/ABPD/ABPD_LAB_02/ABPD_LAB_02/bin/Debug/net8.0/ABPD_LAB_02.deps.json
+/Users/antiffat/ABPD/ABPD_LAB_02/ABPD_LAB_02/bin/Debug/net8.0/ABPD_LAB_02.runtimeconfig.json
+/Users/antiffat/ABPD/ABPD_LAB_02/ABPD_LAB_02/bin/Debug/net8.0/ABPD_LAB_02.dll
+/Users/antiffat/ABPD/ABPD_LAB_02/ABPD_LAB_02/bin/Debug/net8.0/ABPD_LAB_02.pdb
+/Users/antiffat/ABPD/ABPD_LAB_02/ABPD_LAB_02/obj/Debug/net8.0/ABPD_LAB_02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antiffat/ABPD/ABPD_LAB_02/ABPD_LAB_02/obj/Debug/net8.0/ABPD_LAB_02.AssemblyInfoInputs.cache
+/Users/antiffat/ABPD/ABPD_LAB_02/ABPD_LAB_02/obj/Debug/net8.0/ABPD_LAB_02.AssemblyInfo.cs
+/Users/antiffat/ABPD/ABPD_LAB_02/ABPD_LAB_02/obj/Debug/net8.0/ABPD_LAB_02.csproj.CoreCompileInputs.cache
+/Users/antiffat/ABPD/ABPD_LAB_02/ABPD_LAB_02/obj/Debug/net8.0/ABPD_LAB_02.sourcelink.json
+/Users/antiffat/ABPD/ABPD_LAB_02/ABPD_LAB_02/obj/Debug/net8.0/ABPD_LAB_02.dll
+/Users/antiffat/ABPD/ABPD_LAB_02/ABPD_LAB_02/obj/Debug/net8.0/refint/ABPD_LAB_02.dll
+/Users/antiffat/ABPD/ABPD_LAB_02/ABPD_LAB_02/obj/Debug/net8.0/ABPD_LAB_02.pdb
+/Users/antiffat/ABPD/ABPD_LAB_02/ABPD_LAB_02/obj/Debug/net8.0/ABPD_LAB_02.genruntimeconfig.cache
+/Users/antiffat/ABPD/ABPD_LAB_02/ABPD_LAB_02/obj/Debug/net8.0/ref/ABPD_LAB_02.dll

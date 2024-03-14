@@ -1,7 +1,46 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿public class Program
+{
+    public static void Main()
+    {
+        int[] numbers = { 3, 5, 8, 4, 1, 0, 1, 0 };
+        double average = CalculateAverage(numbers);
+        int max = FindMax(numbers);
+        Console.WriteLine($"The calculated average is: {average}");
+        Console.WriteLine($"The maximum value from the given array is: {max}");
+    }
 
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Bye, World!");
-Console.WriteLine("yes!");
-Console.WriteLine("no!");
-fffgf
+    public static double CalculateAverage(int[] numbers)
+    {
+        if (numbers == null || numbers.Length == 0)
+        {
+            throw new ArgumentException("Array must be not null or empty", nameof(numbers));
+        }
+
+        double sum = 0;
+        foreach (int number in numbers)
+        {
+            sum += number;
+        }
+
+        return sum / numbers.Length;
+    }
+
+    public static int FindMax(int[] numbers)
+    {
+        if (numbers == null || numbers.Length == 0)
+        {
+            throw new ArgumentException("Array must be not null or empty", nameof(numbers));
+        }
+
+        int max = numbers[0];
+        for (int i = 0; i < numbers.Length; i++)
+        {
+            if (numbers[i] > max)
+            {
+                max = numbers[i];
+            }
+        }
+
+        return max;
+    }
+}
