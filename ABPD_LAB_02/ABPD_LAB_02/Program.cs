@@ -9,20 +9,20 @@
         Console.WriteLine($"The maximum value from the given array is: {max}");
     }
 
-    public static double CalculateAverage(int[] numbers)
+    public static double CalculateAverage(int[] nums)
     {
-        if (numbers == null || numbers.Length == 0)
+        if (nums == null || nums.Length == 0)
         {
-            throw new ArgumentException("Array must be not null or empty", nameof(numbers));
+            throw new ArgumentException("Array must be not null or empty", nameof(nums));
         }
 
         double sum = 0;
-        foreach (int number in numbers)
+        foreach (int number in nums)
         {
             sum += number;
         }
 
-        return sum / numbers.Length;
+        return sum / nums.Length;
     }
 
     public static int FindMax(int[] numbers)
